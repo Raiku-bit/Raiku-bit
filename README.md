@@ -1,4 +1,4 @@
-# System.out.println("Hola World!");
+# Console.Log("Welcome, Welcome n.n!");
 
 ```typescript
 
