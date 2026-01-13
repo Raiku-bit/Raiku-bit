@@ -17,6 +17,6 @@ const Raiku: Developer = {
   isOpenToWork: true,
   skills: [
     "JavaScript", "TypeScript", "C", 
-    "React", "Git", "SQL"
+    "React", "Git", "SQL", "Python"
   ]
 };
