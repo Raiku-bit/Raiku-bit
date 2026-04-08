@@ -14,7 +14,7 @@ const Raiku: Developer = {
   username: "Raiku-bitbit",
   role: "Software Developer",
   status: "Developing things",
-  isOpenToWork: true,
+  isOpenToWork: false,
   skills: [
     "JavaScript", "TypeScript", "C", 
     "React", "Git", "SQL", "Python"
