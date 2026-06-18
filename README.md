@@ -1,7 +1,7 @@
-# Console.Log("Welcome, Welcome n.n!");
+# Console.Log("Welcome!");
+<img src="/pfp.jpg" alt="Descripción" width="300" height="300">
 
 ```typescript
-
 interface Developer {
   username: string;
   role: string;
@@ -20,3 +20,10 @@ const Raiku: Developer = {
     "React", "Git", "SQL", "Python"
   ]
 };
+```
+
+
+
+
+
+
