@@ -1,4 +1,4 @@
-<img src="/fondo_github .png" alt="Descripción" width="" height="200">
+<img src="/fondo_github .png" alt="Descripción" width="" height="400">
 
 
 ```typescript
