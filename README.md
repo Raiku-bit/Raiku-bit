@@ -1,5 +1,5 @@
-# Console.Log("Welcome!");
-<img src="/pfp.jpg" alt="Descripción" width="300" height="300">
+<img src="/fondo_github .png" alt="Descripción" width="" height="200">
+
 
 ```typescript
 interface Developer {
@@ -11,19 +11,15 @@ interface Developer {
 }
 
 const Raiku: Developer = {
-  username: "Raiku-bitbit",
+  username: "Raiku-bit",
   role: "Software Developer",
   status: "Developing things",
   isOpenToWork: false,
   skills: [
-    "JavaScript", "TypeScript", "C", 
-    "React", "Git", "SQL", "Python"
+    "JavaScript", "TypeScript", "C++", 
+    "React", "Git", "SQL"
   ]
 };
 ```
-
-
-
-
 
 
